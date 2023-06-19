@@ -119,7 +119,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Gus Arisna"
-    subtitle: "A Backend and DevOps Euthiast"
+    subtitle: "A Backend and DevOps Enthusiast"
     content: "I'm a passionate Backend Developer and DevOps Engineer, driven by my love for creating efficient and robust software solutions. With a strong background in both development and operations, I thrive on the challenges of building scalable architectures and automating workflows to streamline processes."
     image: /images/potrait.jpeg
     bottomImage:
