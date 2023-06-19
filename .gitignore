@@ -1,0 +1,32 @@
+# Ignore public directory (output folder)
+/public/
+
+# Ignore resources directory
+/resources/
+
+# Ignore temporary files
+*.bak
+*.swp
+*~
+
+# Ignore Hugo generated files
+/resources/_gen
+/resources/_tmp
+
+# Ignore development server files
+/resources/server.*
+
+# Ignore macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore editor-specific files
+.idea/
+.vscode/
+
