@@ -178,7 +178,7 @@ params:
     items:
       - job: "Backend Lead and DevOps Engineer"
         company: "Cakeplabs"
-        companyUrl: "https://www.linkedin.com/company/cakeplabs/"
+        companyUrl: "https://cakeplabs.com/"
         date: "Jan 2021 - Mei 2023"
         featuredLink:
           enable: false
@@ -197,7 +197,7 @@ params:
 
       - job: "Full-Stack Web Developer"
         company: "Laksita Emi Saguna"
-        companyUrl: "https://www.linkedin.com/company/laksitastartup/"
+        companyUrl: "https://www.laksitastartup.com/"
         date: "Nov 2018 - Apr 2020"
         featuredLink:
           enable: false
