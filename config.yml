@@ -71,9 +71,9 @@ params:
   # Whether the fade animations on the home page will be enabled
   animate: true
 
-  # theme:
-    # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+  theme:
+    disableThemeToggle: true
+    defaultTheme: "dark"
 
   font:
     fontSize: 1rem # default: 1rem
@@ -225,10 +225,8 @@ params:
           url: "https://www.unud.ac.id/"
         date: "2016 - 2023"
         GPA: "3.75 out of 4.0"
-        # content: |-
-        #   I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-        #   - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-        #   - Face mask detection using a single convolutional neural network.
+        content: |-
+          - Research: Two-Way Data Synchronization Model using Audit Log Method and Rabbitmq Message Broker 
         #
         #   Extracurricular Activities
         #     - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
