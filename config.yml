@@ -226,7 +226,7 @@ params:
         date: "2016 - 2023"
         GPA: "3.75 out of 4.0"
         content: |-
-          - Research: Two-Way Data Synchronization Model using Audit Log Method and Rabbitmq Message Broker 
+          - Research: Two-Way Data Synchronization Model using Audit Log Method and RabbitMQ Message Broker 
         #
         #   Extracurricular Activities
         #     - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -292,6 +292,8 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/arisnacg/database_sync_rabbitmq
+
+
 
   #Contact
   contact:
